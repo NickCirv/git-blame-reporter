@@ -1,0 +1,27 @@
+{
+  "name": "git-blame-reporter",
+  "version": "1.0.0",
+  "description": "Who wrote this mess? Git blame reports, ownership maps, churn analysis, and dev accountability.",
+  "type": "module",
+  "bin": {
+    "git-blame-reporter": "./index.js",
+    "blame-report": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "blame",
+    "analytics"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-blame-reporter"
+  }
+}
