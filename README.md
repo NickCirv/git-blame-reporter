@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-blame-reporter
 > Who wrote this mess? Ownership maps, churn kings, and dev accountability reports.
 
